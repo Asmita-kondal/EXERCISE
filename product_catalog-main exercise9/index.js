@@ -20,7 +20,7 @@ app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
 let products = [
-  { name: 'Gourav Rana', description: 'black lives matter', image: '/uploads/1730694414183.jpg' },
+  { name: 'dave', description: 'hgvghvhh', image: '/uploads/.jpg' },
 ];
 
 app.get('/', (req, res) => {
