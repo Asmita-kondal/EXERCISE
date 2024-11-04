@@ -1,1 +1,1 @@
-# ejs_proj
+# bee-assignments
